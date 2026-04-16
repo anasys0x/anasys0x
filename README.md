@@ -1,9 +1,9 @@
-# 💫 About Me:
+# Bonjour, je suis Anas 👋
 Je suis actuellement en processus d'apprentissage et je perfectionne mes connaissances en développement logiciel. J'ai acquis une base solide à travers mon cursus universitaire et je me consacre maintenant à l'exploration de nouvelles technologies pour mes futurs projets.<br><br>    🔭 Actuellement, je me concentre sur : l'approfondissement de mes compétences en ingénierie logicielle et la consolidation de mes bases en développement back-end.<br><br>    🌱 J'apprends en ce moment : Python, Django, Flask, PostgreSQL, FaceAPI, ainsi que l'exploration des LLMs et de l'Intelligence Artificielle.
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anasys0x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anas.mrani.alaoui@umontreal.ca) 
+## 🌐 Contact et Réseaux :
+![Discord](https://img.shields.io/badge/Discord-anasys0x-%237289DA.svg?logo=discord&logoColor=white) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anas.mrani.alaoui@umontreal.ca)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
